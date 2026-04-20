@@ -22,17 +22,17 @@ repository: "nowshadruhan/nowshadruhan.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "NowshadRuhani"
+  name: "Nowshad Ruhani"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Ex-Huawei | AI Simulation Engineer | AI Engineer | ML | AI | Python | FastAPI | Django | MongoDB | AWS & GCP & Azure"
   location: "Earth"
   employer: "Red Brick University"
   uri: # URL
-  email: "none@example.org"
+  email: "nowshad.cse@gmail.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: "https://scholar.google.com/citations?user=Az-aDkAAAAAJ&hl=en"
   impactstory: # URL
   orcid: "http://orcid.org/yourorcidurl"
   pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
