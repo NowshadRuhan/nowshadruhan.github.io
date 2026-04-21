@@ -16,9 +16,7 @@ I’m open to collaborating with companies, research groups, and startups workin
 # HONORS AND AWARDS
 
 1. Received Vice Chancellor Award (2018)
-
-- Recognition for to 3% of students in academics at Metropolitan University.
-
+   ### Recognition for to 3% of students in academics at Metropolitan University.
 2. First Place in Mobile Application Development (2018)
 
 - After mobile application development training from Bangladesh ICT Division, August,2018 To December 2018, achieve 1st place in the examination.
@@ -56,4 +54,4 @@ Example: editing a markdown file for a talk
 
 #### Info
 
-<ins>Last updated: March, 2026 </ins>
+### <ins>Last updated: March, 2026 </ins>
