@@ -16,22 +16,15 @@ I’m open to collaborating with companies, research groups, and startups workin
 # HONORS AND AWARDS
 
 1. Received Vice Chancellor Award (2018)
-   ### Recognition for to 3% of students in academics at Metropolitan University.
+   - Recognition for to 3% of students in academics at Metropolitan University.
 2. First Place in Mobile Application Development (2018)
-
-- After mobile application development training from Bangladesh ICT Division, August,2018 To December 2018, achieve 1st place in the examination.
-
-2. 45th/190 (teams) ICPC Virtual Dhaka Regional Contest (2017)
-
-- Team award from ICPC.
-
-3. 5th/150 MU Intra University Programming Contest (2017)
-
-- Programming contest in the University.
-
-4. 1st Place Chess Olympiad, Bangladesh (2012)
-
-- Awarded from Bangladesh Chessboard.
+   - After mobile application development training from Bangladesh ICT Division, August,2018 To December 2018, achieve 1st place in the examination.
+3. 45th/190 (teams) ICPC Virtual Dhaka Regional Contest (2017)
+   - Team award from ICPC.
+4. 5th/150 MU Intra University Programming Contest (2017)
+   - Programming contest in the University.
+5. 1st Place Chess Olympiad, Bangladesh (2012)
+   - Awarded from Bangladesh Chessboard.
 
 ## Site-wide configuration
 
