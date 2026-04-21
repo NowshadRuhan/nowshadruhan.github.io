@@ -19,11 +19,21 @@ I’m open to collaborating with companies, research groups, and startups workin
 
 - Recognition for to 3% of students in academics at Metropolitan University.
 
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-6. Check status by going to the repository settings, in the "GitHub pages" section
+2. First Place in Mobile Application Development (2018)
+
+- After mobile application development training from Bangladesh ICT Division, August,2018 To December 2018, achieve 1st place in the examination.
+
+2. 45th/190 (teams) ICPC Virtual Dhaka Regional Contest (2017)
+
+- Team award from ICPC.
+
+3. 5th/150 MU Intra University Programming Contest (2017)
+
+- Programming contest in the University.
+
+4. 1st Place Chess Olympiad, Bangladesh (2012)
+
+- Awarded from Bangladesh Chessboard.
 
 ## Site-wide configuration
 
@@ -44,6 +54,6 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-## For more info
+#### Info
 
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<ins>Last updated: March, 2026 </ins>
