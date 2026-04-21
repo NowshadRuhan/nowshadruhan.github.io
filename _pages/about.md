@@ -16,7 +16,8 @@ I’m open to collaborating with companies, research groups, and startups workin
 # HONORS AND AWARDS
 
 1. Received Vice Chancellor Award (2018)
-   Recognition for to 3% of students in academics at Metropolitan University.
+
+- Recognition for to 3% of students in academics at Metropolitan University.
 
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
 3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
