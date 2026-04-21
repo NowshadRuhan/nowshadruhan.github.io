@@ -18,7 +18,7 @@ I’m open to collaborating with companies, research groups, and startups workin
 1. **Received Vice Chancellor Award (2018)**
    - Recognition for to 3% of students in academics at Metropolitan University.
 2. **First Place in Mobile Application Development (2018)**
-   - After mobile application development training from Bangladesh ICT Division, August,2018 To December 2018, achieve 1st place in the examination.
+   - After mobile application development training from Bangladesh ICT Division, August, 2018 To December 2018, achieve 1st place in the examination.
 3. **45th/190 (teams) ICPC Virtual Dhaka Regional Contest (2017)**
    - Team award from ICPC.
 4. **5th/150 MU Intra University Programming Contest (2017)**
@@ -26,25 +26,14 @@ I’m open to collaborating with companies, research groups, and startups workin
 5. **1st Place Chess Olympiad, Bangladesh (2012)**
    - Awarded from Bangladesh Chessboard.
 
-## Site-wide configuration
+## LAB VISIT
 
-The main configuration file for the site is in the base directory in [\_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [\_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+1. **Huawei Battery Lab’s China (HQ Visit: Shanghai, Dongguan, China) (5–15 December 2025)**
+   - Implement PINN model in cloud BMS.
+   - Implement Transfer Learning LSTM model in mobile BMS.
+   - Visit Huawei Battery Intelligence Lab, and check data collection process and analysis data.
+   - Check mobile BMS data, collected from end-user, and analysis data; 2M data.
 
-## Create content & metadata
+### Info
 
-For site content, there is one markdown file for each type of content, which are stored in directories like \_publications, \_talks, \_posts, \_teaching, or \_pages. For example, each talk is a markdown file in the [\_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the \_talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-## How to edit your site's GitHub repository
-
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-#### Info
-
-### <ins>Last updated: March, 2026 </ins>
+_Last updated: March, 2026_
