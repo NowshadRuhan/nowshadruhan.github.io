@@ -32,7 +32,7 @@ redirect_from:
   - Designed simulation workflows combining physics‑based models with ML to enhance accuracy and reduce testing cycles.
   - Collaborated with cross‑functional engineering teams to translate simulation insights into product improvements and design decisions.
 
-- **AI Engineer** (Oct 2024 – Dec 2024) <br> **Digi Energia Oy** _<ins>Helsinki, Finland</ins>_
+- **AI Engineer** (Oct 2024 – Dec 2024) <br> **Digi Energia Oy** <br> _<ins>Helsinki, Finland</ins>_
   - Designed and deployed AI‑driven payment intelligence to improve transaction security, automate billing, and reduce fraud across EV charging networks.
   - Built predictive ML models for pricing, demand forecasting, and customer behavior to support real‑time operational decisions.
   - Integrated AI services across payment systems and charger IoT platforms, ensuring seamless data flow and optimized system performance.
@@ -40,10 +40,15 @@ redirect_from:
   - Collaborated with engineering, product, and operations teams to embed AI capabilities into core business workflows.
   - Monitored and improved model accuracy, ensuring high‑quality data, reliable predictions, and continuous system enhancement.
 
-- **Senior Software Engineer** _<ins>Milton Keynes, England, United Kingdom</ins>_ (JMar 2023 – Sept 2024)
-  - Github University
-  - Duties included: Tagging issues
-  - Supervisor: Professor Git
+- **Senior Software Engineer** (Mar 2023 – Sept 2024) <br> **[VALT](https://www.valt.one/)** <br> _<ins>Milton Keynes, England, United Kingdom</ins>_
+  - Developed complex, scalable REST APIs using NodeJS, Python, FastAPI, PostgreSQL, MongoDB, and Redis for high‑performance payment and EPOS systems.
+  - Integrated Stripe payment workflows, building secure custom payment handlers and automated billing pipelines.
+  - Designed and deployed ML solutions for core product intelligence, including pricing, recommendations, and operational automation.
+  - Built and optimized cloud‑native architectures on AWS and GCP using Lambda, EC2, Airflow, caching layers, and containerized services.
+  - Implemented CI/CD pipelines with GitLab and Git to ensure fast, reliable, and automated deployments.
+  - Developed scalable data pipelines to support analytics, model training, and real‑time decision systems.
+  - Collaborated with cross‑functional teams, including mobile, frontend, and product, to deliver end‑to‑end features.
+  - Improved system performance and reliability through caching strategies, API optimization, and distributed service design.
 
 # Skills
 
