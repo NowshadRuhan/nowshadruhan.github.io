@@ -102,6 +102,14 @@ redirect_from:
 
 - **Metropolia Medical Scribes Team**, <br> [_Medical Scribes Team_](https://www.metropolia.fi/en/about-us/news/the-most-important-aspect-of-my-masters-in-it-was-developing-an-ai-for-finnish-medical-transcription), (2024 – Spring 2025) <br> _Helsinki, Finland_ <br> _Research group of Metropolia University about Medical Scribe_
 
+# Awards
+
+1. **Received Vice Chancellor Award (2018)** <br> _Recognition for to 3% of students in academics at Metropolitan University._
+2. **First Place in Mobile Application Development (2018)** <br> _After mobile application development training from Bangladesh ICT Division, August, 2018 To December 2018, achieve 1st place in the examination._
+3. **45th/190 (teams) ICPC Virtual Dhaka Regional Contest (2017)** <br> _Team award from ICPC._
+4. **5th/150 MU Intra University Programming Contest (2017)** <br> _Programming contest in the University._
+5. **1st Place Chess Olympiad, Bangladesh (2012)** <br> _Awarded from Bangladesh Chessboard._
+
 # Service and leadership
 
 - Currently signed in to 43 different slack teams
