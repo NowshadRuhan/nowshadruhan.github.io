@@ -13,11 +13,11 @@ redirect_from:
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-- **Master of Engineering**, _Information Technology_ (4.75 / 5.00)
+- **Master of Engineering**, _Information Technology_<sub>Major: AI / Machine Learning</sub> (4.75 / 5.00)
   - _Metropolia University of Applied Sciences_, (2024 – May 2025)
   - _Helsinki, Finland_
 
-- **Bachelor of Engineering**, _Computer Science and Engineering_ (3.75 / 4.00)
+- **Bachelor of Engineering**, _Computer Science and Engineering_<sub>Major: AI / Machine Learning</sub> (3.75 / 4.00)
   - _Metropolitan University_, (2016 – 2019)
   - _Sylhet, Bangladesh_
 
