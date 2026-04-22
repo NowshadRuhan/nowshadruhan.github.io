@@ -1,11 +1,9 @@
 ---
 layout: archive
-# title: "work-experience"
+title: "Work Experience"
 permalink: /work-experience/
 author_profile: true
 ---
-
-# Work experience
 
 - **AI Simulation Engineer** (Jan 2025 – March 2026) <br> **[Huawei](https://www.huawei.com/en/)** <br> _<ins>Helsinki, Finland</ins>_
   - Technical project planning, proposal, and execution for consumer electronics devices, next generation battery technology.
