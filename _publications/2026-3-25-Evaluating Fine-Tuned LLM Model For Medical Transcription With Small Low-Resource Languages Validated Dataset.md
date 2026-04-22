@@ -2,7 +2,7 @@
 title: "Evaluating Fine-Tuned LLM Model For Medical Transcription With Small Low-Resource Languages Validated Dataset"
 collection: publications
 permalink: /publication/2026-3-25-Evaluating Fine-Tuned LLM Model For Medical Transcription With Small Low-Resource Languages Validated Dataset
-excerpt: "This paper is about fixing template issue #693."
+excerpt: "Arxiv Journal"
 date: 2026-3-25
 venue: "arxiv"
 paperurl: "https://arxiv.org/pdf/2603.24772"
