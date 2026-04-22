@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "work-experience"
+# title: "work-experience"
 permalink: /work-experience/
 author_profile: true
 ---
@@ -65,4 +65,3 @@ author_profile: true
 - **Data Science:** feature engineering, Snowflake, Spark, BeautifulSoup, Scrapy, Selenium, Azure Data Engineering tools, Data-bricks, PowerBI
 - **Research:** Overleaf, Lucidchart, Matlab, LaTeX, Rails, OCaml
 - **Document Creation:** Microsoft Office Suite, LaTex, Overleaf, Lucidchart
-
