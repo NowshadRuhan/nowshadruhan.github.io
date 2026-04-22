@@ -70,13 +70,13 @@ redirect_from:
 
 # Skills
 
-- Languages: English (C1), Finnish (A2)
-- Programming/Framework: Python, Javascript, PHP, NodeJs, Shell, Postgre-SQL, C, C++, MySQL, Mongodb, Git, FastApi, Django, Codeigniter, RestAPI, CSS, Docker, Kubernetes
-- ML: MLflow, PyTorch, FastAPI, PyTorch, TensorFlow, Keras, and Scikit-Learn for computer vision, NLP, LLMs, MLOps, Airflow, and CI/CD (GitHub Actions, GitLab), (Most of ML model implementation)
-- Generative AI: Designed, fine-tuned, and deployed LLM and RAG-based applications, tokenization, vector search
-- Data Science: feature engineering, Snowflake, Spark, BeautifulSoup, Scrapy, Selenium, Azure Data Engineering tools, Data-bricks, PowerBI
-- Research: Overleaf, Lucidchart, Matlab, LaTeX, Rails, OCaml
-- Document Creation: Microsoft Office Suite, LaTex, Overleaf, Lucidchart
+- **Languages:** English (C1), Finnish (A2)
+- **Programming/Framework:** Python, Javascript, PHP, NodeJs, Shell, Postgre-SQL, C, C++, MySQL, Mongodb, Git, FastApi, Django, Codeigniter, RestAPI, CSS, Docker, Kubernetes
+- **ML:** MLflow, PyTorch, FastAPI, PyTorch, TensorFlow, Keras, and Scikit-Learn for computer vision, NLP, LLMs, MLOps, Airflow, and CI/CD (GitHub Actions, GitLab), (Most of ML model implementation)
+- **Generative AI:** Designed, fine-tuned, and deployed LLM and RAG-based applications, tokenization, vector search
+- **Data Science:** feature engineering, Snowflake, Spark, BeautifulSoup, Scrapy, Selenium, Azure Data Engineering tools, Data-bricks, PowerBI
+- **Research:** Overleaf, Lucidchart, Matlab, LaTeX, Rails, OCaml
+- **Document Creation:** Microsoft Office Suite, LaTex, Overleaf, Lucidchart
 
 # Publications
 
@@ -109,7 +109,12 @@ redirect_from:
 3. **45th/190 (teams) ICPC Virtual Dhaka Regional Contest (2017)** <br> _Team award from ICPC._
 4. **5th/150 MU Intra University Programming Contest (2017)** <br> _Programming contest in the University._
 5. **1st Place Chess Olympiad, Bangladesh (2012)** <br> _Awarded from Bangladesh Chessboard._
+6. **5th/50 (teams) BUP Inter University Hackathon National Level Contest (2019)** <br> _Awarded from BUP University._
 
 # Service and leadership
 
-- Currently signed in to 43 different slack teams
+- Team lead at Ordervox; managed an 8‑member core engineering team, <br> _Ordervox, (Dec 2019 – Dec 2022)_
+- General Secretary, <br> _Metropolitan University's Cycling Association, (2018-2019)_
+- Software Developer Secretary, <br> _CSE Society, Metropolitan University (2018-2019)_
+- Cadet Under Officer <br> _Bangladesh National Cadet Corps (MC Collage Platoon) (2014-2015)_
+- Team Leader <br> _Bangladesh Red Crescent Society(School Platoon) (2011-2012)_

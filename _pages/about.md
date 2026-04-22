@@ -25,6 +25,7 @@ I’m open to collaborating with companies, research groups, and startups workin
    - Programming contest in the University.
 5. **1st Place Chess Olympiad, Bangladesh (2012)**
    - Awarded from Bangladesh Chessboard.
+6. **5th/50 (teams) BUP Inter University Hackathon National Level Contest (2019)**
 
 ## LAB VISIT
 
