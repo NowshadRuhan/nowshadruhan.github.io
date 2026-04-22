@@ -23,10 +23,17 @@ redirect_from:
 
 # Work experience
 
-- Spring 2024: Academic Pages Collaborator
-  - Github University
-  - Duties includes: Updates and improvements to template
-  - Supervisor: The Users
+- **AI Simulation Engineer** _Helsinki, Finland_ (Jan 2025 – March 2026)
+  - Technical project planning, proposal, and execution for consumer electronics devices, next generation battery technology.
+  - Develop AI and simulation technologies by integrating physics-based models with data-driven, transfer-learning and physics-informed machine learning approaches to improve characterization of consumer electronics devices.
+  - Advance lithium-ion battery research for consumer electronics by characterizing new cell technologies, modeling degradation mechanisms, and supporting improvements in online battery management systems.
+  - Led technical planning and execution for AI‑driven simulation projects in next‑generation battery and consumer electronics systems.
+  - Developed physics‑informed and data‑driven ML models, integrating transfer learning, LSTM, and hybrid simulation approaches.
+  - Built AI‑based characterization tools to analyze device behavior, performance patterns, and system reliability.
+  - Advanced lithium‑ion battery research, modeling degradation mechanisms and evaluating new cell technologies.
+  - Improved online Battery Management Systems (BMS) by developing predictive algorithms for SOH, aging, and performance.
+  - Designed simulation workflows combining physics‑based models with ML to enhance accuracy and reduce testing cycles.
+  - Collaborated with cross‑functional engineering teams to translate simulation insights into product improvements and design decisions.
 
 - Fall 2015: Research Assistant
   - Github University
