@@ -61,6 +61,13 @@ redirect_from:
   - Managed an 8‑member core engineering team, driving agile execution, sprint planning, code quality, and on‑time delivery of complex product features.
   - Enhanced system performance and scalability through caching strategies, PL/SQL optimization, and cloud‑native best practices to ensure a seamless customer experience.
 
+- **Software Engineer Intern** (Jan 2018 – Dec 2019) <br> **[Parking koi INC](https://www.parkingkoi.com/)** <br> _<ins>Dhaka, Bangladesh</ins>_
+  - Implemented and maintained Google Maps–based location and routing features for a car‑parking solution (Uber‑style), building RESTful APIs using PHP, CodeIgniter, JavaScript, and AJAX.
+  - Deployed and supported backend services on AWS, ensuring reliable performance, version control, and smooth feature delivery using Git.
+  - Integrated map interactions such as distance calculation, live position updates, and dynamic marker rendering for smooth user experience.
+  - Deployed backend services on AWS, ensuring stable performance, uptime, and secure environment configuration.
+  - Collaborated using Git for version control, contributing to feature development, bug fixes, and code reviews within the engineering team.
+
 # Skills
 
 - Skill 1
