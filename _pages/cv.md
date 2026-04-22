@@ -13,9 +13,9 @@ redirect_from:
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-- **Master of Engineering**, _Information Technology_ (4.75 / 5.00) <br> _Metropolia University of Applied Sciences_, (2024 – May 2025) <br> _Helsinki, Finland_
+- **Master of Engineering**, _Information Technology_ (4.75 / 5.00) <br> [_Metropolia University of Applied Sciences_](https://www.metropolia.fi/en/about-us/news/the-most-important-aspect-of-my-masters-in-it-was-developing-an-ai-for-finnish-medical-transcription), (2024 – May 2025) <br> _Helsinki, Finland_ <br> Thesis: [Using Open Source LLM Model for Medical Transcription](https://www.theseus.fi/handle/10024/890628)
 
-- **Bachelor of Engineering**, _Computer Science and Engineering_ (3.75 / 4.00) <br> _Metropolitan University_, (2016 – 2019) <br> _Sylhet, Bangladesh_
+- **Bachelor of Engineering**, _Computer Science and Engineering_ (3.75 / 4.00) <br> _Metropolitan University_, (2016 – 2019) <br> _Sylhet, Bangladesh_ <br> Thesis: [Heart Disease Prognosis Using Machine Learning Classification Techniques](https://ieeexplore.ieee.org/abstract/document/9418181)
 
 # Work experience
 
