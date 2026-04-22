@@ -13,12 +13,12 @@ Clinical documentation is a critical factor for patient safety, diagnosis, and c
 
 ### Fig. 1. Overview of Fine-Tuned LLM model using Small Validate Dataset.
 
-![llm-flow](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/4c39fc4f973a3a2003397bfa8a56c7f8aab38956/images/llm-flow.png)
+![llm-flow](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/main/images/llm-flow.png)
 
 ### Fig. 2. K-Fold Cross-Validation (k=7) Structure.
 
-![K-Fold](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/4c39fc4f973a3a2003397bfa8a56c7f8aab38956/images/2af85a5cadd1799c9288b21683a84669d93e5ee8.png)
+![K-Fold](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/main/images/2af85a5cadd1799c9288b21683a84669d93e5ee8.png)
 
 ### Fig. 3. Model results in k-fold validation.
 
-![results](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/4c39fc4f973a3a2003397bfa8a56c7f8aab38956/images/9cc41cc21953a1ecbeb88156db6e838926e0161d.png)
+![results](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/main/images/9cc41cc21953a1ecbeb88156db6e838926e0161d.png)
