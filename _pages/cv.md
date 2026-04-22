@@ -23,7 +23,7 @@ redirect_from:
 
 # Work experience
 
-- **AI Simulation Engineer** [Huawei](https://www.huawei.com/en/) _<ins>Helsinki, Finland</ins>_ (Jan 2025 – March 2026)
+- **AI Simulation Engineer** <br> **[Huawei](https://www.huawei.com/en/)** _<ins>Helsinki, Finland</ins>_ (Jan 2025 – March 2026)
   - Technical project planning, proposal, and execution for consumer electronics devices, next generation battery technology.
   - Develop AI and simulation technologies by integrating physics-based models with data-driven, transfer-learning and physics-informed machine learning approaches to improve characterization of consumer electronics devices and hybrid simulation approaches
   - Advance lithium-ion battery research for consumer electronics by characterizing new cell technologies, modeling degradation mechanisms, and supporting improvements in online battery management systems.
