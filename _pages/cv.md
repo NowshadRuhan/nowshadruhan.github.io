@@ -70,12 +70,13 @@ redirect_from:
 
 # Skills
 
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
+- Languages: English (C1), Finnish (A2)
+- Programming/Framework: Python, Javascript, PHP, NodeJs, Shell, Postgre-SQL, C, C++, MySQL, Mongodb, Git, FastApi, Django, Codeigniter, RestAPI, CSS, Docker, Kubernetes
+- ML: MLflow, PyTorch, FastAPI, PyTorch, TensorFlow, Keras, and Scikit-Learn for computer vision, NLP, LLMs, MLOps, Airflow, and CI/CD (GitHub Actions, GitLab), (Most of ML model implementation)
+- Generative AI: Designed, fine-tuned, and deployed LLM and RAG-based applications, tokenization, vector search
+- Data Science: feature engineering, Snowflake, Spark, BeautifulSoup, Scrapy, Selenium, Azure Data Engineering tools, Data-bricks, PowerBI
+- Research: Overleaf, Lucidchart, Matlab, LaTeX, Rails, OCaml
+- Document Creation: Microsoft Office Suite, LaTex, Overleaf, Lucidchart
 
 # Publications
 
@@ -83,17 +84,17 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
