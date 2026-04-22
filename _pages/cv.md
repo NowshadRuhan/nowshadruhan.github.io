@@ -28,7 +28,7 @@ redirect_from:
   - Designed simulation workflows combining physics‑based models with ML to enhance accuracy and reduce testing cycles.
   - Collaborated with cross‑functional engineering teams to translate simulation insights into product improvements and design decisions.
 
-- **AI Engineer** (Oct 2024 – Dec 2024) <br> **Digi Energia Oy** <br> _<ins>Helsinki, Finland</ins>_
+- **AI Engineer** (Oct 2024 – Dec 2024) <br> **[Digi Energia Oy](https://www.ipark.fi/)** <br> _<ins>Helsinki, Finland</ins>_
   - Designed and deployed AI‑driven payment intelligence to improve transaction security, automate billing, and reduce fraud across EV charging networks.
   - Built predictive ML models for pricing, demand forecasting, and customer behavior to support real‑time operational decisions.
   - Integrated AI services across payment systems and charger IoT platforms, ensuring seamless data flow and optimized system performance.
