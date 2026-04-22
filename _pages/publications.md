@@ -15,5 +15,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
 {% include archive-single.html %}
-![results](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/main/images/9cc41cc21953a1ecbeb88156db6e838926e0161d.png?raw=true)
 {% endfor %}
