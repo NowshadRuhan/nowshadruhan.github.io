@@ -19,4 +19,4 @@ Studies show that Studies that cardiovascular diseases (CVDs) are malignant for 
 
 ### Fig. 2. Results.
 
-![results](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/main/images/result-anova?raw=true)
+![results](https://github.com/NowshadRuhan/nowshadruhan.github.io/blob/main/images/result-anova.png?raw=true)
