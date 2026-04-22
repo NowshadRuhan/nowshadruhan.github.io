@@ -2,7 +2,7 @@
 title: "Heart Disease Prognosis Using Machine Learning Classification Techniques"
 collection: publications
 permalink: /publication/2021-5-10-Heart Disease Prognosis Using Machine Learning Classification Techniques
-excerpt: "Conference paper"
+excerpt: "IEE conference paper"
 date: 2021-5-10
 venue: "2021 6th International Conference for Convergence in Technology (I2CT)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9418181"

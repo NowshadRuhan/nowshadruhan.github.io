@@ -8,6 +8,7 @@ author_profile: true
 {% if site.author.googlescholar %}
 
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  Research interest: Machine learning, NLP (LLM), Deep learning, Healthcare, Energy Storage, Battery
 {% endif %}
 
 {% include base_path %}

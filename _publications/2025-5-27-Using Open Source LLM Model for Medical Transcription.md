@@ -2,7 +2,7 @@
 title: "Using Open Source LLM Model for Medical Transcription"
 collection: publications
 permalink: /publication/2025-5-27-Using Open Source LLM Model for Medical Transcription
-excerpt: "Thesis paper"
+excerpt: "Master's thesis paper"
 date: 2025-5-27
 venue: "Metropolia University of Applied Sciences Journal"
 paperurl: "https://www.theseus.fi/bitstream/handle/10024/890628/Chowdhury_Mohammed_Nowshad_Ruhani.pdf?sequence=2"
