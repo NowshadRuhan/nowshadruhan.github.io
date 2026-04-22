@@ -13,13 +13,9 @@ redirect_from:
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-- **Master of Engineering**, _Information Technology_ (4.75 / 5.00)
-  - _Metropolia University of Applied Sciences_, (2024 – May 2025)
-  - _Helsinki, Finland_
+- **Master of Engineering**, _Information Technology_ (4.75 / 5.00) <br> _Metropolia University of Applied Sciences_, (2024 – May 2025) <br> _Helsinki, Finland_
 
-- **Bachelor of Engineering**, _Computer Science and Engineering_ (3.75 / 4.00)
-  - _Metropolitan University_, (2016 – 2019)
-  - _Sylhet, Bangladesh_
+- **Bachelor of Engineering**, _Computer Science and Engineering_ (3.75 / 4.00) <br> _Metropolitan University_, (2016 – 2019) <br> _Sylhet, Bangladesh_
 
 # Work experience
 
@@ -49,6 +45,21 @@ redirect_from:
   - Developed scalable data pipelines to support analytics, model training, and real‑time decision systems.
   - Collaborated with cross‑functional teams, including mobile, frontend, and product, to deliver end‑to‑end features.
   - Improved system performance and reliability through caching strategies, API optimization, and distributed service design.
+
+- **AI Engineer** (Jan 2023 – Mar 2023) <br> **[Carbarn](https://www.carbarn.com.au/)** <br> _<ins>Sydney, New South Wales, Australia</ins>_
+  - Developed and maintained AI/ML models for pricing, demand forecasting, customer recommendations, and marketplace optimization.
+  - Built and improved search, ranking, and recommendation algorithms to enhance car‑buying and discovery experiences.
+  - Collected and analyzed competitor data using automated web‑scraping tools (BeautifulSoup, Scrapy, Selenium) to support strategic decisions.
+  - Processed and transformed large datasets with Airflow and Spark to generate insights for sales, marketing, and product teams.
+  - Collaborated with cross‑functional teams to integrate AI solutions into business workflows and customer‑facing features.
+  - Monitored model performance and data quality, ensuring continuous accuracy, reliability, and improvement of AI systems.
+
+- **Lead Software Engineer** (Dec 2019 – Dec 2022) <br> **[Ordervox](https://ordervox.co.uk/)** <br> _<ins>London, England, United Kingdom</ins>_
+  - Led full‑stack development of scalable web, mobile, and desktop applications using Python, PHP, FastAPI, JavaScript, Java, and CodeIgniter for the OrderE restaurant automation platform.
+  - Architected and optimized cloud infrastructure across AWS Lambda, EC2, ECS, RDS, Redis, Docker, and Kubernetes to support high‑traffic operations for 300+ restaurant clients.
+  - Designed cost‑efficient backend systems and data pipelines, improving automation, performance, and reliability across ordering, delivery, and in‑house dining workflows.
+  - Managed an 8‑member core engineering team, driving agile execution, sprint planning, code quality, and on‑time delivery of complex product features.
+  - Enhanced system performance and scalability through caching strategies, PL/SQL optimization, and cloud‑native best practices to ensure a seamless customer experience.
 
 # Skills
 
