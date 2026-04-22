@@ -113,8 +113,8 @@ redirect_from:
 
 # Service and leadership
 
-- Team lead at Ordervox; managed an 8‑member core engineering team, <br> _Ordervox, (Dec 2019 – Dec 2022)_
-- General Secretary, <br> _Metropolitan University's Cycling Association, (2018-2019)_
-- Software Developer Secretary, <br> _CSE Society, Metropolitan University (2018-2019)_
-- Cadet Under Officer <br> _Bangladesh National Cadet Corps (MC Collage Platoon) (2014-2015)_
-- Team Leader <br> _Bangladesh Red Crescent Society(School Platoon) (2011-2012)_
+- **Team lead at Ordervox; managed an 8‑member core engineering team,** <br> _Ordervox, (Dec 2019 – Dec 2022)_
+- **General Secretary,** <br> _Metropolitan University's Cycling Association, (2018-2019)_
+- **Software Developer Secretary,** <br> _CSE Society, Metropolitan University (2018-2019)_
+- **Cadet Under Officer** <br> _Bangladesh National Cadet Corps (MC Collage Platoon) (2014-2015)_
+- **Team Leader** <br> _Bangladesh Red Crescent Society(School Platoon) (2011-2012)_
