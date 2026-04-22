@@ -13,13 +13,13 @@ redirect_from:
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-- **Master of Engineering** | Information Technology (4.75 / 5.00)
-  - Metropolia University of Applied Sciences | (2024 – May 2025)
-  - Helsinki | Finland
+- **Master of Engineering**, _Information Technology_ (4.75 / 5.00)
+  - _Metropolia University of Applied Sciences_, (2024 – May 2025)
+  - _Helsinki, Finland_
 
-- **Bachelor of Engineering** | Computer Science and Engineering (3.75 / 4.00)
-  - Metropolitan University | (2016 – 2019)
-  - Sylhet | Bangladesh
+- **Bachelor of Engineering**, _Computer Science and Engineering_ (3.75 / 4.00)
+  - _Metropolitan University_, (2016 – 2019)
+  - _Sylhet, Bangladesh_
 
 # Work experience
 
