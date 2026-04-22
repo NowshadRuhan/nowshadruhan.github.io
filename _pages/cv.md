@@ -96,6 +96,18 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+# Conferences and Lab Visit
+
+1. **Huawei Battery Lab’s China** <br> _(HQ Visit: Shanghai, Dongguan, China) (5–15 December 2025)_
+   - Implement PINN model in cloud BMS.
+   - Implement Transfer Learning LSTM model in mobile BMS.
+   - Visit Huawei Battery Intelligence Lab, and check data collection process and analysis data.
+   - Check mobile BMS data, collected from end-user, and analysis data; 2M data.
+
+2. **AI in AEC 2025 Conference Paasitorni Congress Centre** <br> _Helsinki, Finland (2025)_
+3. **2025 Huawei Future Deviece Technology Summit (Aurora Summit)** <br> _Oulo, Finland (2025)_
+4. **2021 6th International Conference for Convergence in Technology (I2CT) IEEE Conference** <br> _Maharashtra, India (2021)_
+
 # Research Team
 
 - **Vision Intelligence and Data Lab**, <br> [_Lab_](https://vidlab.github.io/vid-lab/people.html), (2021 – Present) <br> _Ontario, Canada_ <br> _Research group of Lakehead University’s for Machine Learning and AI on Domain: healthcare, battery, consumer electronic_
@@ -116,5 +128,5 @@ redirect_from:
 - **Team lead at Ordervox; managed an 8‑member core engineering team,** <br> _Ordervox, (Dec 2019 – Dec 2022)_
 - **General Secretary,** <br> _Metropolitan University's Cycling Association, (2018-2019)_
 - **Software Developer Secretary,** <br> _CSE Society, Metropolitan University (2018-2019)_
-- **Cadet Under Officer** <br> _Bangladesh National Cadet Corps (MC Collage Platoon) (2014-2015)_
-- **Team Leader** <br> _Bangladesh Red Crescent Society(School Platoon) (2011-2012)_
+- **Cadet Under Officer,** <br> _Bangladesh National Cadet Corps (MC Collage Platoon) (2014-2015)_
+- **Team Leader,** <br> _Bangladesh Red Crescent Society(School Platoon) (2011-2012)_
