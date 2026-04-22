@@ -95,7 +95,13 @@ redirect_from:
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+# Research Team
+
+- **Vision Intelligence and Data Lab**, <br> [_Lab_](https://vidlab.github.io/vid-lab/people.html), (2021 – Present) <br> _Ontario, Canada_ <br> _Research group of Lakehead University’s for Machine Learning and AI on Domain: healthcare, battery, consumer electronic_
+
+- **Metropolia Medical Scribes Team**, <br> [_Medical Scribes Team_](https://www.metropolia.fi/en/about-us/news/the-most-important-aspect-of-my-masters-in-it-was-developing-an-ai-for-finnish-medical-transcription), (2024 – Spring 2025) <br> _Helsinki, Finland_ <br> _Research group of Metropolia University about Medical Scribe_
+
+# Service and leadership
+
+- Currently signed in to 43 different slack teams
