@@ -10,6 +10,8 @@ AI‑Powered WhatsApp Personal Assistant is an end‑to‑end automation system 
 
 ![aiagent](https://github.com/NowshadRuhan/AI-Powered-WhatsApp-Personal-Assistant/blob/main/ai-agent-success.png?raw=true)
 
+## AI Agent: workflow video: Watch the video
+
 <!-- Basic YouTube embed -->
 <iframe
   width="560"
