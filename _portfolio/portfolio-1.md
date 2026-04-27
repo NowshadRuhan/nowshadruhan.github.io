@@ -6,6 +6,17 @@ collection: portfolio
 
 AI‑Powered WhatsApp Personal Assistant is an end‑to‑end automation system that integrates WhatsApp with an AI agent using n8n, enabling fully automated, intelligent conversations directly inside WhatsApp. The workflow captures incoming messages in real time through the WhatsApp Cloud API, processes them with a Large Language Model to understand intent and generate context‑aware responses, and sends replies back instantly to the user. This setup functions as a personal AI assistant capable of answering questions, generating content, and performing reasoning tasks without requiring any backend coding. Built on a no‑code/low‑code architecture, the project demonstrates how to combine AI, messaging, and automation into a practical, extensible solution suitable for personal productivity, customer support, or conversational AI applications.
 
+## How It Works
+
+1. WhatsApp Trigger Node
+   - Receives incoming messages from WhatsApp via webhook.
+
+2. AI Agent Node
+   - Uses an LLM to understand the message, generate answers, perform reasoning, or execute multi‑step logic.
+
+3. Send Message Node
+   - Sends the AI‑generated response back to the user through the WhatsApp Cloud API.
+
 ## AI Agent.
 
 ![aiagent](https://github.com/NowshadRuhan/AI-Powered-WhatsApp-Personal-Assistant/blob/main/ai-agent-success.png?raw=true)
