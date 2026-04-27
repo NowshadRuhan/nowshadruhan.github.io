@@ -8,14 +8,14 @@ AI‑Powered WhatsApp Personal Assistant is an end‑to‑end automation system 
 
 ## How It Works
 
-1. WhatsApp Trigger Node
-   - Receives incoming messages from WhatsApp via webhook.
+1. **WhatsApp Trigger Node**
+   - _Receives incoming messages from WhatsApp via webhook._
 
-2. AI Agent Node
-   - Uses an LLM to understand the message, generate answers, perform reasoning, or execute multi‑step logic.
+2. **AI Agent Node**
+   - _Uses an LLM to understand the message, generate answers, perform reasoning, or execute multi‑step logic._
 
-3. Send Message Node
-   - Sends the AI‑generated response back to the user through the WhatsApp Cloud API.
+3. **Send Message Node**
+   - _Sends the AI‑generated response back to the user through the WhatsApp Cloud API._
 
 ## AI Agent.
 
