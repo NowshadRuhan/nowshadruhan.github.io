@@ -14,7 +14,7 @@ AI‑Powered WhatsApp Personal Assistant is an end‑to‑end automation system 
 <iframe
   width="560"
   height="315"
-  src="https://youtu.be/dgQp6S7pBP8"
+  src="https://www.youtube.com/embed/dgQp6S7pBP8"
   title="YouTube video player"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
