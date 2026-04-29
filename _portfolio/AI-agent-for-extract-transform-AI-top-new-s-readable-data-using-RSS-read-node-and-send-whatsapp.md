@@ -14,16 +14,16 @@ turning n8n into a personal, real‑time AI news assistant that runs continuousl
 
 ## How It Works
 1. RSS Read Node
-   - Fetches the latest AI‑related articles from selected RSS feeds and outputs structured news items.
+   - _Fetches the latest AI‑related articles from selected RSS feeds and outputs structured news items._
 
 2. AI Agent Node
-   - Uses an LLM to extract key insights, remove noise, and transform each article into a short, readable summary optimized for WhatsApp.
+   - _Uses an LLM to extract key insights, remove noise, and transform each article into a short, readable summary optimized for WhatsApp._
 
 3. Aggregate / Format Node
-   - Combines multiple AI‑generated summaries into one clean digest or formats each item into a WhatsApp‑friendly message.
+   - _Combines multiple AI‑generated summaries into one clean digest or formats each item into a WhatsApp‑friendly message._
 
 4. WhatsApp Cloud API Node
-   - Sends the final summarized news directly to your WhatsApp number as a real‑time update.
+   - _Sends the final summarized news directly to your WhatsApp number as a real‑time update._
 
 ## AI Agent.
 
