@@ -1,6 +1,7 @@
 ---
 title: "RAG-application-built-with-AI-assistance-(Claude-Vibe-coding)"
-excerpt: "Build an agentic RAG application from scratch by collaborating with Claude Code.<br/><img src='/images/rag.png'>"
+excerpt: "Build an agentic RAG application from scratch by collaborating with Claude Code.<br/><img src='/images/rag.png' style='width:150px;'>"
+
 collection: portfolio
 ---
 
@@ -8,7 +9,7 @@ Build an agentic RAG application from scratch by collaborating with Claude Code.
 
 ## Workflow:
 
-<img src='/images/rag.png'>
+<img src='/images/rag.png' style="width:150px;">
 
 ## What Built
 
