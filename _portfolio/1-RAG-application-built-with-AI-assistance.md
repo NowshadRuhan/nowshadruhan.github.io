@@ -6,9 +6,9 @@ collection: portfolio
 
 Build an agentic RAG application from scratch by collaborating with Claude Code.
 
-## AI Agent.
+## Workflow:
 
-![aiagent](https://github.com/NowshadRuhan/Universal-AI-Action-Agent/blob/main/email-ai-agent.png?raw=true)
+<img src='/images/rag.png'>
 
 ## What Built
 
