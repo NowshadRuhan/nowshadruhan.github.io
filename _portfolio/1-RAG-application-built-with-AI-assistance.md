@@ -9,7 +9,7 @@ Build an agentic RAG application from scratch by collaborating with Claude Code.
 
 ## Workflow:
 
-<img src='/images/rag.png' style="width:350px;">
+<img src='/images/rag.png' style="width:550px;">
 
 ## What Built
 
