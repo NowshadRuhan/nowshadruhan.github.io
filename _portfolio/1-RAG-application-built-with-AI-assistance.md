@@ -96,6 +96,6 @@ When everything above works, mark Module 1 complete in [`PROGRESS.md`](./PROGRES
 
 ## Docs
 
-- [PRD.md](./PRD.md) — What to build (the 8 modules in detail)
-- [CLAUDE.md](./CLAUDE.md) — Context for Claude Code
-- [PROGRESS.md](./PROGRESS.md) — Track your build progress
+- [PRD.md](https://github.com/NowshadRuhan/RAG-application-built-with-AI-assistance-Claude-Vibe-coding-/blob/main/PRD.md) — What to build (the 8 modules in detail)
+- [CLAUDE.md](https://github.com/NowshadRuhan/RAG-application-built-with-AI-assistance-Claude-Vibe-coding-/blob/main/CLAUDE.md) — Context for Claude Code
+- [PROGRESS.md](https://github.com/NowshadRuhan/RAG-application-built-with-AI-assistance-Claude-Vibe-coding-/blob/main/PROGRESS.md) — Track your build progress
