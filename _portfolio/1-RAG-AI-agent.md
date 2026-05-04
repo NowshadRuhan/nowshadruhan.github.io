@@ -4,6 +4,10 @@ excerpt: "A fully automated RAG AI agent that ingests new Google Drive files, ge
 collection: portfolio
 ---
 
+## Rag AI Agent.
+
+![aiagent](https://github.com/NowshadRuhan/RAG-AI-agent/blob/main/rag-ai-agent-full-workflow.png?raw=true)
+
 This workflow automates a complete RAG-powered AI agent pipeline. When a new file is added to Google Drive, it is automatically downloaded, split into chunks, embedded, and stored in Pinecone as a vector database. On the chat side, incoming user messages trigger an AI Agent that retrieves relevant context from Pinecone, combines it with OpenAI’s chat model and memory, and generates accurate, context‑aware responses. The system seamlessly connects document ingestion, vector storage, retrieval, and conversational reasoning into one unified intelligent assistant.
 
 ## Explain in below: step by step
