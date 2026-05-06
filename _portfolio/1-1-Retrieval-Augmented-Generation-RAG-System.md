@@ -12,6 +12,8 @@ collection: portfolio
 - Vector DB: ChromaDB
 - Embedding: sentence-Transformers
 
+<img src='/images/rag-flow.png'>
+
 ## Rag Results After Retrieval:
 
 ![aiagent](https://github.com/NowshadRuhan/Retrieval-Augmented-Generation-RAG-System/blob/main/rag-1.png?raw=true)
