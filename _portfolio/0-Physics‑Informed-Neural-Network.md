@@ -4,7 +4,7 @@ excerpt: "A Physics‑Informed Neural Network (PINN) is a neural network trained
 collection: portfolio
 ---
 
-<h3> Physics‑Informed Neural Network (PINN)<h3>
+<h3> Physics‑Informed Neural Network (PINN)</h3>
 
 <img src='/images/pinn.svg' style="width:1150px;">
 
@@ -20,7 +20,7 @@ A Physics‑Informed Neural Network (PINN) is a neural network trained not only 
 This hybrid approach improves generalization, especially when data is sparse or noisy.
 This is strongly supported by recent research showing PINNs outperform purely data‑driven models in SOH/SOC estimation under limited data conditions
 
-<h3> Physics Relevant to Lithium‑Ion Battery Degradation <h3>
+<h3> Physics Relevant to Lithium‑Ion Battery Degradation </h3>
 
 PINNs embed physics from electrochemical models.
 
@@ -62,7 +62,7 @@ SOH degradation is often modeled:
 
 - Increase in internal resistance
 
-<h3> Neural Network Model Design <h3>
+<h3> Neural Network Model Design </h3>
 
 ### Designing a PINN for SOH/SOC Prediction After 800 Cycles
 
@@ -141,7 +141,7 @@ V<sub>pred</sub>(t)
 V<sub>measured</sub>(t)
 </p>
 
-<h3> Training Strategy <h3>
+<h3> Training Strategy </h3>
 
 **Sampling Strategy**
 
@@ -159,7 +159,7 @@ Two‑stage training is standard:
 
 - L‑BFGS (fine‑tuning, improves PDE satisfaction)
 
-<h3> Loss Function Design <h3>
+<h3> Loss Function Design </h3>
 
 This PINNs use a composite loss
 
