@@ -6,7 +6,7 @@ collection: portfolio
 
 ## PINN.
 
-![aiagent](https://github.com/NowshadRuhan/RAG-AI-agent/blob/main/rag-ai-agent-full-workflow.png?raw=true)
+<img src='/images/pinn.svg'>
 
 A Physics‑Informed Neural Network (PINN) is a neural network trained not only on data but also on physical laws, typically expressed as differential equations.
 
