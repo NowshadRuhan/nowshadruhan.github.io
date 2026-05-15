@@ -53,6 +53,7 @@ V(t) = U<sub>p</sub>(c<sub>s,p</sub><sup>surf</sup>(t))
 </p>
 
 **SEI Growth & Capacity Fade**
+
 SOH degradation is often modeled:
 
 - SEI layer growth
