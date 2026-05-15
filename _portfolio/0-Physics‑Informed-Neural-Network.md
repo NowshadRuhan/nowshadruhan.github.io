@@ -6,7 +6,7 @@ collection: portfolio
 
 ## Physics‑Informed Neural Network (PINN).
 
-<img src='/images/pinn.svg' style="width:850px;">
+<img src='/images/pinn.svg' style="width:1150px;">
 
 A Physics‑Informed Neural Network (PINN) is a neural network trained not only on data but also on physical laws, typically expressed as differential equations.
 
