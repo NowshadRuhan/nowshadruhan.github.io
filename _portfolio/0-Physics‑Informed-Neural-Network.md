@@ -79,7 +79,7 @@ _Define the Inputs and Outputs_
    - SOC(t) — continuous prediction over cycle
    - SOH(cycle) — capacity fade trajectory
 
-#### Network Architecture
+### Network Architecture
 
 **PINN Architecture**
 
