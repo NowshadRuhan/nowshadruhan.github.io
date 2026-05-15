@@ -140,3 +140,56 @@ V<sub>pred</sub>(t)
 −
 V<sub>measured</sub>(t)
 </p>
+
+### Training Strategy
+
+**Sampling Strategy**
+
+- Data points (from battery dataset)
+
+- Collocation points (random points where PDE must hold)
+
+- Boundary points (for BC/IC constraints)
+
+**Optimizers**
+
+Two‑stage training is standard:
+
+- Adam (fast convergence)
+
+- L‑BFGS (fine‑tuning, improves PDE satisfaction)
+
+## Loss Function Design
+
+This PINNs use a composite loss
+
+**Total Loss:**
+
+<p>
+L = L<sub>data</sub> + &lambda;<sub>phys</sub> L<sub>physics</sub> + &lambda;<sub>bc</sub> L<sub>BC</sub>
+</p>
+
+**Data Loss:**
+
+<p>
+L<sub>data</sub> =
+|| S&hat;OH - SOH<sub>true</sub> ||<sup>2</sup>
++ 
+|| S&hat;OC - SOC<sub>true</sub> ||<sup>2</sup>
+</p>
+
+**Physics Loss:**
+
+Enforces PDE/ODE constraints:
+
+- Fick’s diffusion equation residual
+- SEI growth ODE residual
+- Voltage equation residual
+
+**Boundary/Initial Condition Loss**
+
+Ensures physical consistency:
+
+- SOC ∈ [0,1]
+- Concentration boundary conditions at particle surface
+- Voltage limits (2.5–4.2 V)
