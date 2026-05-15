@@ -4,7 +4,7 @@ excerpt: "A Physics‑Informed Neural Network (PINN) is a neural network trained
 collection: portfolio
 ---
 
-## Physics‑Informed Neural Network (PINN).
+<h3> Physics‑Informed Neural Network (PINN)<h3>
 
 <img src='/images/pinn.svg' style="width:1150px;">
 
@@ -20,11 +20,11 @@ A Physics‑Informed Neural Network (PINN) is a neural network trained not only 
 This hybrid approach improves generalization, especially when data is sparse or noisy.
 This is strongly supported by recent research showing PINNs outperform purely data‑driven models in SOH/SOC estimation under limited data conditions
 
-### Physics Relevant to Lithium‑Ion Battery Degradation
+<h3> Physics Relevant to Lithium‑Ion Battery Degradation <h3>
 
 PINNs embed physics from electrochemical models.
 
-<h3>Single Particle Model (SPM)</h3>
+<h4>Single Particle Model (SPM)</h4>
 
 <p><strong>Fick's diffusion in solid phase:</strong></p>
 <p>
@@ -62,7 +62,7 @@ SOH degradation is often modeled:
 
 - Increase in internal resistance
 
-## Neural Network Model Design
+<h3> Neural Network Model Design <h3>
 
 ### Designing a PINN for SOH/SOC Prediction After 800 Cycles
 
@@ -141,7 +141,7 @@ V<sub>pred</sub>(t)
 V<sub>measured</sub>(t)
 </p>
 
-### Training Strategy
+<h3> Training Strategy <h3>
 
 **Sampling Strategy**
 
@@ -159,7 +159,7 @@ Two‑stage training is standard:
 
 - L‑BFGS (fine‑tuning, improves PDE satisfaction)
 
-## Loss Function Design
+<h3> Loss Function Design <h3>
 
 This PINNs use a composite loss
 
@@ -173,9 +173,9 @@ L = L<sub>data</sub> + &lambda;<sub>phys</sub> L<sub>physics</sub> + &lambda;<su
 
 <p>
 L<sub>data</sub> =
-|| S&hat;OH - SOH<sub>true</sub> ||<sup>2</sup>
+|| SOH - SOH<sub>true</sub> ||<sup>2</sup>
 + 
-|| S&hat;OC - SOC<sub>true</sub> ||<sup>2</sup>
+|| SOC - SOC<sub>true</sub> ||<sup>2</sup>
 </p>
 
 **Physics Loss:**
