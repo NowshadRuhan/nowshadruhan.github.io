@@ -61,3 +61,20 @@ SOH degradation is often modeled:
 - Loss of active lithium
 
 - Increase in internal resistance
+
+## Neural Network Model Design
+
+### Designing a PINN for SOH/SOC Prediction After 800 Cycles
+
+_Define the Inputs and Outputs_
+
+1. **Inputs**
+   - Cycle index (0–100)
+   - Charge/discharge current profile
+   - Voltage curves
+   - Temperature
+   - Feature Engineering: Time‑series features (dV/dt, dQ/dV, etc.)
+
+2. **Outputs**
+   - SOC(t) — continuous prediction over cycle
+   - SOH(cycle) — capacity fade trajectory
