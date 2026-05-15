@@ -78,3 +78,65 @@ _Define the Inputs and Outputs_
 2. **Outputs**
    - SOC(t) — continuous prediction over cycle
    - SOH(cycle) — capacity fade trajectory
+
+#### Network Architecture
+
+**PINN Architecture**
+
+- Fully connected MLP
+- 4–8 hidden layers
+- 64–256 neurons per layer
+- Activation: tanh (Because PDE residuals require smooth derivatives; tanh is differentiable and stable.)
+- Output layer: linear
+
+**Automatic Differentiation**
+
+<p><strong>1. First-order time derivative:</strong></p>
+<p>
+∂c<sub>s</sub>(r,t) / ∂t
+= 
+d c<sub>s</sub>(r,t) / d t
+</p>
+
+<p><strong>2. First-order spatial derivative:</strong></p>
+<p>
+∂c<sub>s</sub>(r,t) / ∂r
+=
+d c<sub>s</sub>(r,t) / d r
+</p>
+
+<p><strong>3. Second-order spatial derivative:</strong></p>
+<p>
+∂<sup>2</sup>c<sub>s</sub>(r,t) / ∂r<sup>2</sup>
+=
+d<sup>2</sup> c<sub>s</sub>(r,t) / d r<sup>2</sup>
+</p>
+
+<p><strong>4. Full diffusion PDE residual (PINN form):</strong></p>
+<p>
+R<sub>diff</sub> =
+∂c<sub>s</sub>/∂t
+−
+(D<sub>s</sub> / r<sup>2</sup>)
+·
+∂/∂r
+(
+r<sup>2</sup> · ∂c<sub>s</sub>/∂r
+)
+</p>
+
+<p><strong>5. SEI growth ODE residual:</strong></p>
+<p>
+R<sub>SEI</sub> =
+dL<sub>SEI</sub>/dt
+−
+(k<sub>SEI</sub> / L<sub>SEI</sub>)
+</p>
+
+<p><strong>6. Voltage residual:</strong></p>
+<p>
+R<sub>V</sub> =
+V<sub>pred</sub>(t)
+−
+V<sub>measured</sub>(t)
+</p>
