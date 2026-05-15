@@ -4,7 +4,7 @@ excerpt: "A Physics‑Informed Neural Network (PINN) is a neural network trained
 collection: portfolio
 ---
 
-## PINN.
+## Physics‑Informed Neural Network (PINN).
 
 <img src='/images/pinn.svg'>
 
