@@ -24,11 +24,39 @@ This is strongly supported by recent research showing PINNs outperform purely da
 
 PINNs embed physics from electrochemical models.
 
-**Single Particle Model (SPM)**
-SPM uses Fick’s law of diffusion inside electrode particles:
+<h3>Single Particle Model (SPM)</h3>
 
+<p><strong>Fick's diffusion in solid phase:</strong></p>
 <p>
 ∂c<sub>s</sub>(r,t)/∂t =
 (D<sub>s</sub> / r<sup>2</sup>) · ∂/∂r ( r<sup>2</sup> · ∂c<sub>s</sub>(r,t)/∂r ),
 &nbsp;&nbsp;0 &lt; r &lt; R
 </p>
+
+<p><strong>Boundary conditions:</strong></p>
+<p>
+At r = 0: &nbsp; ∂c<sub>s</sub>/∂r = 0
+<br/>
+At r = R: &nbsp; -D<sub>s</sub> · ∂c<sub>s</sub>/∂r = j(t)/F
+</p>
+
+<p><strong>Initial condition:</strong></p>
+<p>
+c<sub>s</sub>(r,0) = c<sub>s,0</sub>(r)
+</p>
+
+<p><strong>Terminal voltage (simplified SPM):</strong></p>
+<p>
+V(t) = U<sub>p</sub>(c<sub>s,p</sub><sup>surf</sup>(t))
+&minus; U<sub>n</sub>(c<sub>s,n</sub><sup>surf</sup>(t))
+&minus; I(t) · R<sub>tot</sub>
+</p>
+
+**SEI Growth & Capacity Fade**
+SOH degradation is often modeled:
+
+- SEI layer growth
+
+- Loss of active lithium
+
+- Increase in internal resistance
