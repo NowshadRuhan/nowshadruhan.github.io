@@ -472,25 +472,64 @@ def pinn_loss(model,
 
 
 # ==========================================
-# 5. Sketch of training loop
+# 5. Draft sketch of training loop
 # ==========================================
 
 if __name__ == "__main__":
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    model = BatteryPINN(in_dim=3, hidden_dim=128, n_layers=6).to(device)
+    # ============================================================
+    # Builded tensors
+    # ============================================================
+
+    # 1. Collocation points (PDE)
+    N_coll = 5000
+    t_coll = torch.rand(N_coll, 1).to(device)
+    r_coll = torch.rand(N_coll, 1).to(device) * 1e-6
+    I_coll = (torch.rand(N_coll, 1) * 4 - 2).to(device)
+
+    # 2. Boundary condition points
+    N_bc = 1000
+    t_bc = torch.rand(N_bc, 1).to(device)
+    I_bc = (torch.rand(N_bc, 1) * 4 - 2).to(device)
+
+    # 3. Initial condition points
+    N_ic = 2000
+    t_ic = torch.zeros(N_ic, 1).to(device)
+    r_ic = torch.rand(N_ic, 1).to(device) * 1e-6
+    I_ic = torch.zeros(N_ic, 1).to(device)
+    c_s_init = torch.ones(N_ic, 1).to(device) * 20000.0  # uniform initial concentration
+
+    # 4. Data points (synthetic for now — replace with real dataset)
+    N_data = 1500
+    t_data = torch.rand(N_data, 1).to(device)
+    r_data = torch.rand(N_data, 1).to(device) * 1e-6
+    I_data = (torch.rand(N_data, 1) * 4 - 2).to(device)
+
+    # synthetic ground truth (replace with real battery data)
+    c_s_data = 20000 + 500 * torch.sin(5 * t_data)
+    soh_data = 1.0 - 0.0005 * t_data
+    soc_data = torch.sigmoid(5 * (t_data - 0.5))
+
+    # 5. r-grid for mass conservation integral
+    N_r = 200
+    r_grid_for_mass = torch.linspace(0, 1e-6, N_r).reshape(-1, 1).to(device)
+
+    # ============================================================
+    # Initialize model + optimizer
+    # ============================================================
+
+    model = BatteryPINN(in_dim=3).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
 
-    # TODO: build your tensors:
-    # t_coll, r_coll, I_coll, ...
-    # t_bc, I_bc, ...
-    # t_ic, r_ic, I_ic, c_s_init, ...
-    # t_data, r_data, I_data, c_s_data, soh_data, soc_data, ...
-    # r_grid_for_mass, ...
+    # ============================================================
+    # Training loop
+    # ============================================================
 
-    for epoch in range(10000):
+    for epoch in range(3000):
         optimizer.zero_grad()
-        loss, logs = pinn_loss(
+
+        loss = pinn_loss(
             model,
             t_coll, r_coll, I_coll,
             t_bc, I_bc,
@@ -499,14 +538,12 @@ if __name__ == "__main__":
             c_s_data, soh_data, soc_data,
             r_grid_for_mass
         )
+
         loss.backward()
         optimizer.step()
 
-        if epoch % 500 == 0:
-            print(f"Epoch {epoch} | total={loss.item():.4e} | "
-                  f"data={logs['loss_data']:.4e} | pde={logs['loss_pde']:.4e} | "
-                  f"bc={logs['loss_bc']:.4e} | ic={logs['loss_ic']:.4e} | "
-                  f"mass={logs['loss_mass']:.4e}")
+        if epoch % 200 == 0:
+            print(f"Epoch {epoch} | Loss = {loss.item():.4e}")
 
 ```
 
