@@ -206,11 +206,10 @@ Ensures physical consistency:
 
 ## How PINNs Improve SOH/SOC Prediction After 800 Cycles
 
+<hr>
 1. Better Generalization
-
-PINNs can predict SOH/SOC even when:
-
-- Voltage curves are missing
+   PINNs can predict SOH/SOC even when:
+   - Voltage curves are missing
 
 - Sensor data is sparse
 
@@ -219,20 +218,19 @@ PINNs can predict SOH/SOC even when:
 This is project demonstrated in recent works' PINNs outperform data‑driven models under sparse sensor conditions.
 
 2. Physical Interpretability
+   The model learns degradation consistent with:
+   - SEI growth
 
-The model learns degradation consistent with:
+   - Lithium loss
 
-- SEI growth
-
-- Lithium loss
-
-- Diffusion limits
+   - Diffusion limits
 
 3. Stability
+   - PINNs avoid unphysical predictions (e.g., SOC > 100%).
 
-- PINNs avoid unphysical predictions (e.g., SOC > 100%).
-
-Below (Design Pattern) code based of PINNs:
+<hr><hr>
+## Below (Design Pattern) code based of PINNs:
+<hr>
 
 ```python
 import torch
