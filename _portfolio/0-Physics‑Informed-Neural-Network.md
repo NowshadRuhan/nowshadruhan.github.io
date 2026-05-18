@@ -262,7 +262,7 @@ class MLP(nn.Module):
 class BatteryPINN(nn.Module):
     """
     Inputs:
-        x = [t, r, I, T, cycle]  (you can choose subset)
+        x = [t, r, I, T, cycle]  (after feature engineering: new features)
     Outputs:
         c_s(r,t)  : solid concentration
         soh(t)    : state of health
