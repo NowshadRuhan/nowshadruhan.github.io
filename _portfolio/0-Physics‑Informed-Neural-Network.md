@@ -234,7 +234,7 @@ The model learns degradation consistent with:
 
 Below (Design Pattern) code based of PINNs:
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.autograd as autograd
