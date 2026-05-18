@@ -210,10 +210,8 @@ Ensures physical consistency:
 1. Better Generalization
    PINNs can predict SOH/SOC even when:
    - Voltage curves are missing
-
-- Sensor data is sparse
-
-- Cycles beyond training range (e.g., extrapolating to 700)
+   - Sensor data is sparse
+   - Cycles beyond training range (e.g., extrapolating to 700)
 
 This is project demonstrated in recent works' PINNs outperform data‑driven models under sparse sensor conditions.
 
